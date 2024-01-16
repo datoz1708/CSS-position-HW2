@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #404040;
+}
+
+.box {
+    position: relative;
+    background-color: #710000;
+    height: 311px;
+    width: 100%;
+}
+
+.img {
+    position: absolute;
+    left: 68px;
+    top: 209px;
+}
